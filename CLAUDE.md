@@ -1,40 +1,51 @@
-# IT Engineer AI Tools Slide Repository
+# AI Tools Guide for Engineers 2025
 
 ## Repository Overview
 
-This repository contains a presentation slide deck about AI tools for IT engineers. It consists of:
+This repository contains a comprehensive presentation and reference guide about AI tools specifically curated for IT engineers in 2025. It serves as both an executive presentation and a technical reference guide.
 
-1. **index.html** - Main HTML slideshow presentation with embedded CSS styling
-2. **engineer_ai_tools_guide.md** - Comprehensive markdown guide covering 10 categories of AI tools
+**Target Audience:**
+- Engineering managers and CTOs (Part 1: Business case, ROI, security)
+- Software engineers and technical teams (Part 2: Implementation, tools, best practices)
+- DevOps and infrastructure teams
+- Engineering organizations evaluating AI tool adoption
+
+**Repository Contents:**
+1. **index.html** - Interactive HTML5 slideshow presentation with modern styling
+2. **engineer_ai_tools_guide.md** - Comprehensive technical reference covering 10 AI tool categories
+3. **CLAUDE.md** - Project documentation and development context
 
 ## Project Structure
 
 ```
-/Users/chikara/Development/it-engineer-tools-slide/
-├── index.html                    # Main presentation slideshow
-├── engineer_ai_tools_guide.md    # Source material for presentation
-└── CLAUDE.md                     # This documentation file
+ai-tools-guide-for-engineers-2025/
+├── index.html                    # Interactive presentation slideshow
+├── engineer_ai_tools_guide.md    # Comprehensive AI tools reference guide
+└── CLAUDE.md                     # Project documentation and development notes
 ```
 
 ## Key Files
 
-### index.html
-- HTML slideshow presentation with 13 slides
-- Embedded CSS for styling and layout optimization
-- Structured into Part 1 (executives) and Part 2 (engineers)
-- Optimized for viewport viewing without scrolling
-- Key slides:
-  - Title slide with horizontal layout
-  - Agenda with horizontal layout for space efficiency
-  - Security and governance sections for enterprise audiences
-  - Tool recommendations with ranking systems
-  - ROI calculations and enterprise case studies
+### index.html - Interactive Presentation
+- HTML5 slideshow presentation with 13 professionally designed slides
+- Embedded CSS for modern styling and responsive layout optimization
+- Structured into Part 1 (executive/management focus) and Part 2 (technical/engineering focus)
+- Optimized for viewport viewing with minimal scrolling
+- Interactive navigation with keyboard and button controls
+- Key features:
+  - Engaging title slide with modern design
+  - Comprehensive agenda with visual hierarchy
+  - Enterprise security and governance sections
+  - AI tool recommendations with ranking systems
+  - ROI calculations and real-world enterprise case studies
+  - Implementation guides with code examples
 
-### engineer_ai_tools_guide.md
-- Comprehensive guide covering 10 AI tool categories
-- Includes pricing, MCP support status, and enterprise recommendations
-- Source material for presentation content
-- 346 lines with detailed tool comparisons and cost analysis
+### engineer_ai_tools_guide.md - Reference Guide
+- Comprehensive technical reference covering 10 AI tool categories
+- Detailed analysis including pricing, MCP support status, and enterprise readiness
+- Serves as both source material for presentation and standalone reference
+- 346+ lines with detailed tool comparisons, cost analysis, and implementation notes
+- Categorized by use case: coding, documentation, security, infrastructure, etc.
 
 ## Technical Details
 
@@ -73,15 +84,23 @@ This repository contains a presentation slide deck about AI tools for IT enginee
 
 ## Usage Instructions
 
-### For Development
-- Open index.html in browser to view presentation
-- Use arrow keys or click navigation to move between slides
-- Presentation is optimized for fullscreen viewing
+### For Presentation Use
+- Open index.html in any modern web browser
+- Use arrow keys, navigation buttons, or Home/End keys to navigate
+- Optimized for fullscreen presentation mode
+- Works offline - no internet connection required
+- Compatible with presentation systems and projectors
+
+### For Reference Use
+- engineer_ai_tools_guide.md serves as a standalone technical reference
+- Can be viewed in any markdown reader or text editor
+- Contains detailed implementation notes and comparisons
 
 ### For Content Updates
-- Modify index.html directly for presentation changes
-- Update engineer_ai_tools_guide.md for source material changes
-- Maintain consistency between both files
+- Modify index.html for presentation content changes
+- Update engineer_ai_tools_guide.md for technical reference updates
+- Maintain consistency between presentation and reference guide
+- Update CLAUDE.md when making structural changes
 
 ## Important Notes
 
@@ -115,6 +134,21 @@ This repository was developed through an iterative process involving:
 8. Fine-tuning of spacing and visual hierarchy
 
 The presentation balances executive needs (security, ROI, governance) with technical accuracy and engineer-friendly communication style.
+
+## Project Naming and Semantic Structure
+
+**Recommended Directory Name:** `ai-tools-guide-for-engineers-2025`
+
+This semantic naming convention clearly indicates:
+- **Purpose**: Guide for AI tools
+- **Audience**: Engineers (IT/Software)
+- **Year**: 2025 (indicating currency and relevance)
+- **Structure**: Follows standard kebab-case convention for web projects
+
+**File Naming Convention:**
+- `index.html`: Standard entry point for web-based presentations
+- `engineer_ai_tools_guide.md`: Descriptive name indicating technical reference
+- `CLAUDE.md`: Development documentation following common pattern
 
 ## CSS Classes and Structure
 
