@@ -14,6 +14,7 @@ This repository contains a comprehensive presentation and reference guide about 
 1. **index.html** - Interactive HTML5 slideshow presentation with modern styling
 2. **engineer_ai_tools_guide.md** - Comprehensive technical reference covering 10 AI tool categories
 3. **CLAUDE.md** - Project documentation and development context
+4. **README.md** - Project overview with GitHub Pages deployment link
 
 ## Project Structure
 
@@ -21,7 +22,8 @@ This repository contains a comprehensive presentation and reference guide about 
 ai-tools-guide-for-engineers-2025/
 ├── index.html                    # Interactive presentation slideshow
 ├── engineer_ai_tools_guide.md    # Comprehensive AI tools reference guide
-└── CLAUDE.md                     # Project documentation and development notes
+├── CLAUDE.md                     # Project documentation and development notes
+└── README.md                     # Project README with GitHub Pages link
 ```
 
 ## Key Files
@@ -68,6 +70,8 @@ ai-tools-guide-for-engineers-2025/
 - Adjusted horizontal layouts to only essential sections
 - Added enterprise case studies and security governance content
 - Transformed from formal corporate tone to casual engineer-friendly style
+- Removed deploy.sh script - now using GitHub Pages automatic deployment
+- Updated README.md to reflect current file structure and deployment method
 
 ### Latest Layout and Text Fixes (June 2025)
 - **Text Wrapping Improvements**: Added `word-wrap: break-word` and `overflow-wrap: break-word` to all text elements
@@ -149,6 +153,7 @@ This semantic naming convention clearly indicates:
 - `index.html`: Standard entry point for web-based presentations
 - `engineer_ai_tools_guide.md`: Descriptive name indicating technical reference
 - `CLAUDE.md`: Development documentation following common pattern
+- `README.md`: Project overview and usage instructions with GitHub Pages link
 
 ## CSS Classes and Structure
 

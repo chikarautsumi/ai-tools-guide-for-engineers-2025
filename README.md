@@ -22,7 +22,6 @@
 ai-tools-guide-for-engineers-2025/
 ├── index.html                    # インタラクティブプレゼンテーション
 ├── engineer_ai_tools_guide.md    # 技術リファレンスガイド
-├── deploy.sh                     # GitHub Pagesデプロイスクリプト
 ├── CLAUDE.md                     # プロジェクト詳細ドキュメント
 └── README.md                     # このファイル
 ```
@@ -69,10 +68,7 @@ open index.html
 ```
 
 ### デプロイ
-```bash
-# 自動デプロイスクリプト実行
-./deploy.sh
-```
+GitHub Pagesを使用してデプロイされています。変更は自動的にmainブランチから反映されます。
 
 ## 📊 特徴
 
