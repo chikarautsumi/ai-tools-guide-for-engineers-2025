@@ -887,21 +887,23 @@ li {
 }
 
 .best-practices-section:first-child h4 {
-    color: #27ae60;
-    background: #d5f5d5;
+    color: white;
+    background: #27ae60;
     padding: 8px 15px;
     border-radius: 8px;
     margin-bottom: 15px;
     border: 2px solid #27ae60;
+    font-weight: bold;
 }
 
 .best-practices-section:last-child h4 {
-    color: #c0392b;
-    background: #fce4e4;
+    color: white;
+    background: #c0392b;
     padding: 8px 15px;
     border-radius: 8px;
     margin-bottom: 15px;
     border: 2px solid #c0392b;
+    font-weight: bold;
 }
 
 .best-practices-title {
