@@ -886,6 +886,24 @@ li {
     text-align: left;
 }
 
+.best-practices-section:first-child h4 {
+    color: #27ae60;
+    background: #d5f5d5;
+    padding: 8px 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border: 2px solid #27ae60;
+}
+
+.best-practices-section:last-child h4 {
+    color: #c0392b;
+    background: #fce4e4;
+    padding: 8px 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border: 2px solid #c0392b;
+}
+
 .best-practices-title {
     margin-bottom: 15px;
 }
